@@ -5,19 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiranwairagade" alt="kiranwairagade" /></a> </p>
 
-- 🔭 I’m currently working on **Bandobast tracking project**
-
 - 🌱 I’m currently learning **MERN stack**
-
-- 🤝 I’m looking for help with **my career as data analyst.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kiranwairagade](https://github.com/Kiranwairagade)
 
-- 📝 I regularly write articles on leetcode [https://leetcode.com/kiranwairagade/](https://leetcode.com/kiranwairagade/)
+- 📝 My leetcode profile [https://leetcode.com/kiranwairagade/](https://leetcode.com/kiranwairagade/)
 
 - 💬 Ask me about **frontend technology**
 
-- 📫 How to reach me **kiranwairagade7@gmail.com**
+- 📫 My email id for contacting me **kiranwairagade7@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kiran-wairagade-4b568619a](https://www.linkedin.com/in/kiran-wairagade-4b568619a)
 
