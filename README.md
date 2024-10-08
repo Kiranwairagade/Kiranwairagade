@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiranwairagade" alt="kiranwairagade" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 My technical skills :  C++ | HTML | CSS | JavaScript | Bootstrap | React | MySQL | Firebase | Github | Git 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kiranwairagade](https://github.com/Kiranwairagade)
+- 👨‍💻 All of my projects are available at this github profile.
 
 - 📝 My leetcode profile [https://leetcode.com/kiranwairagade/](https://leetcode.com/kiranwairagade/)
 
-- 💬 Ask me about **frontend technology**
-
 - 📫 My email id for contacting me **kiranwairagade7@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kiran-wairagade-4b568619a](https://www.linkedin.com/in/kiran-wairagade-4b568619a)
+- 📄 Know about my experiences and more from my LinkedIn profile [https://www.linkedin.com/in/kiran-wairagade-4b568619a](https://www.linkedin.com/in/kiran-wairagade-4b568619a)
 
 - ⚡ Fun fact **"Despite being known for our logical thinking and problem-solving skills, computer engineers often have a creative side. Many of us enjoy hobbies such as music, art, or even cooking, showing that the blend of creativity and logic is a hallmark of our profession." 🎵🎨🍳**
 
